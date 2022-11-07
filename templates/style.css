@@ -1,0 +1,21 @@
+.content
+{
+    position: relative;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-item: center;
+}
+.content .textBox
+{
+    position:relative;
+    max-width:600px;
+}
+
+.content .textBox h2
+{
+    color: #333;
+    font-size:4rem;
+    line-height: 1.4em;
+    font
+}
